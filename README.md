@@ -1,4 +1,4 @@
-WEBSITE TEST ==== https://lucabecci.github.io/Counter-App-in-React/
+WEBSITE TEST ==== https://lucabecci.github.io/Counter-App-in-React/puclic/index.html
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
